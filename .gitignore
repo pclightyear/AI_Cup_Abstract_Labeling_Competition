@@ -1,9 +1,11 @@
 # data_set
-data_set/zip
-data_set/*public*
-data_set/*task1*
-data_set/*Description*
-data_set/*task_pair*
+data/zip
+data/*public*
+data/*task1*
+data/*Description*
+data/*task_pair*
+data/*glove*
+data/*Google*
 
 # submission
 *submission*
